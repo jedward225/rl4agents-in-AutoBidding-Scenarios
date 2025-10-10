@@ -1,0 +1,6 @@
+torch
+gymnasium
+matplotlib
+pandas
+scipy
+tqdm
